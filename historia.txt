@@ -5,4 +5,4 @@ Elian es profesor de guitarra
 Nacido en Republica dominicana 
 Y voy a cambiar a hacer WordPress
 
-Hoy esta aprendiendo control de versiones
+Hoy esta aprendiendo control el merge y git reset --hard
